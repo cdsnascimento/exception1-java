@@ -1,0 +1,5 @@
+INDEX VERSION 1.4+C:\Users\Note_Nascimento\Documents\MeuProjetos\exceptions1-java\exception1-java\curse\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1377694252.index
+499393745.index
+308090777.index
+247691894.index
